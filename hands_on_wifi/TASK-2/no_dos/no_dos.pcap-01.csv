@@ -1,0 +1,7 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+1A:02:D7:A3:85:77, 2024-03-22 16:48:56, 2024-03-22 16:49:17,  1, 360, WPA2, CCMP, PSK, -50,      198,      514,   0.  0.  0.  0,  13, Rohit's Flip3, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+A8:7E:EA:BF:10:53, 2024-03-22 16:49:02, 2024-03-22 16:49:17, -49,      463, 1A:02:D7:A3:85:77,
+
